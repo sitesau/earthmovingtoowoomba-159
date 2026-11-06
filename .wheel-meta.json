@@ -1,0 +1,22 @@
+{
+  "wheel_id": 756,
+  "structure": "umbrella",
+  "slug": "earthmovingtoowoomba-159",
+  "project": "earthmoving-services-toowoomba-seasonal-timing-ea20a0f749b07f3f",
+  "parent_t1_ref": "earthmovingtoowoomba-014",
+  "node_role": "buffer",
+  "money_target": "earthmovingtoowoomba.com.au",
+  "primary_kw": "earthmoving services toowoomba seasonal timing",
+  "intended_url": "https://sites-e470-2.web.app/earthmoving-services-toowoomba-seasonal-timing-ea20a0f749b07f3f/",
+  "tier": "T2",
+  "writeback_nonce": "0bf389149265ad57",
+  "links": [
+    {
+      "target_url": "https://sitesau.github.io/earthmoving-services-toowoomba-earthmovingtoowoomba-014/",
+      "anchor": "https://sitesau.github.io/earthmoving-services-toowoomba-earthmovingtoowoomba-014/",
+      "rel": "follow",
+      "target_type": "cloud",
+      "anchor_type": "url"
+    }
+  ]
+}
